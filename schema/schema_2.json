@@ -1,0 +1,38 @@
+{
+    "user": {
+        "type": "Dictionary",
+        "tag": "",
+        "description": "This gives information about the user",
+        "required": "false"
+    },
+    "time": {
+        "type": "Integer",
+        "tag": "",
+        "description": "This gives information about the time",
+        "required": "false"
+    },
+    "acl": {
+        "type": "List",
+        "tag": "",
+        "description": "This gives information about the acl",
+        "required": "false"
+    },
+    "publicFeed": {
+        "type": "Boolean",
+        "tag": "",
+        "description": "This gives information about the publicFeed",
+        "required": "false"
+    },
+    "internationalCountries": {
+        "type": "Enum",
+        "tag": "",
+        "description": "This gives information about the internationalCountries",
+        "required": "false"
+    },
+    "topTraderFeed": {
+        "type": "Boolean",
+        "tag": "",
+        "description": "This gives information about the topTraderFeed",
+        "required": "false"
+    }
+}
