@@ -1,4 +1,5 @@
-This is a program that schemes a json file returning the description of the attribute tagged message
+This is a program that schemes a json file returning the description of the attribute tagged message.
+
 Some necessary dependencies and how to import them are given as follows:
 
 | s/n | Dependencies | Import Syntax | Link to the Library | Usage in this Project 
